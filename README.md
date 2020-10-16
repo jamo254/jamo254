@@ -1,9 +1,6 @@
 ### Hi there , I am Fred👋
 
-
-/***jamo254/jamo254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. */
-
-Here are some ideas to get you started:
+About me
 
 - 🔭 I’m currently working on React.js projects
 - 🌱 I’m currently learning Node.js & MongoDb
