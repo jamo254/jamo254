@@ -1,6 +1,6 @@
 ### Hi there , I am Fred👋
 
-About me
+### About me
 
 - 🔭 I’m currently working on React.js projects
 - 🌱 I’m currently learning Node.js & MongoDb
