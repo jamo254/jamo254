@@ -1,4 +1,4 @@
-### Hi there , I am Fred👋
+### Hi there , I am Fred a software engineer and a tech lover👋
 
 ### About me
 
