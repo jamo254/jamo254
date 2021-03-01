@@ -1,6 +1,7 @@
-### Hi there , I am Fred a software engineer and a tech lover👋
+### Hi there , I am Fred a software engineer and a tech lover 👋
 
 ### About me
+
 
 - 🔭 I’m currently working on React.js projects
 - 🌱 I’m currently learning Node.js & MongoDb
@@ -11,3 +12,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am good at making new friends
 
+### Technologies I use
+- React.js
+- Python
+- JavaScript
