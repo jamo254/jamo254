@@ -1,7 +1,7 @@
 ### Hi there , I am Fred a software engineer and a tech lover 👋
 
 ### About me
-
+You will find me mostly around the computer, learning one or more technologies, implement a new  component or sipping a cup of coffee while watching a codind tutorial.
 
 - 🔭 I’m currently working on React.js projects
 - 🌱 I’m currently learning Node.js & MongoDb
