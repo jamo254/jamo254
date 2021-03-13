@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to  python 101
 
 You can use the [editor on GitHub](https://github.com/jamo254/jamo254/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Python basics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pyhon is an object oriented languages..
 
 ```markdown
 Syntax highlighted code block
