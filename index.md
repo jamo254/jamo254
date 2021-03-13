@@ -2,17 +2,15 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Python basics
-``` print('Hello there') ```
+``` console.log('Hello')
 
 Pyhon is an object oriented languages..
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Data structures
 ## Header 2
 ### Header 3
 
