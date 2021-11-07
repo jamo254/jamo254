@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am good at making new friends
 
-### Technologies I use
+                    ### Technologies I use
 - React.js
 - Python
 - JavaScript
