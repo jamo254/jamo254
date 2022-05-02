@@ -10,7 +10,7 @@
 - React.js
 - Python
 - ```python
-Python rocks
+print("Python rocks")
 - 
 - ```
 - JavaScript
