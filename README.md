@@ -9,6 +9,10 @@
  ### Technologies I use
 - React.js
 - Python
+- ```python
+- Python rocks
+- 
+- ```
 - JavaScript
 
 
