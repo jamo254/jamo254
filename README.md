@@ -9,10 +9,9 @@
  ### Technologies I use
 - React.js
 - Python
-- ```python
-print("Python rocks")
-- 
-- ```
+```python
+- print("Python rocks")
+```
 - JavaScript
 
 
