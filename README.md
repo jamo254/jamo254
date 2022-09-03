@@ -9,6 +9,8 @@
  ### Technologies I use
 - React.js
 - Python
+- Flutter 
+- Dart
 ```python
 - print("Python rocks")
 ```
