@@ -14,7 +14,7 @@
 ```python
 - print("Python rocks")
 ```
-- JavaScript
+
 
 
 
