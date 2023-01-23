@@ -7,13 +7,9 @@
 - 💬 Ask me about Code
 - ⚡ Fun fact: I am good at making new friends
  ### Technologies I use
-- React.js
-- Python
-- Flutter 
-- Dart
-```python
-- print("Python rocks")
-```
+
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 
